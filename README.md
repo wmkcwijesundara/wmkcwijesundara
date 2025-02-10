@@ -9,9 +9,7 @@ pursuing my BSc in Computer Networks from NSBM Green University, Srilanka
 
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
 
-- 🌱 I’m currently learning Java,HTML,CSS
-- 📫 Reach out to me: chelaka560@gmail.com
-- ⚡ Fun fact: Call me as RMX
+- 🌱 I’m currently learning Networking Basics and Develop Enterprise Applications
 
 <br>
 
@@ -24,9 +22,6 @@ pursuing my BSc in Computer Networks from NSBM Green University, Srilanka
 </p>
 <br>
 
-I am currently listening to:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thekq0ysmjnfk69ruse5hlers&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=thekq0ysmjnfk69ruse5hlers&redirect=true)
 
 ### 📊 My Github Stats:
 <br/>
@@ -40,6 +35,4 @@ I am currently listening to:
 ### Lets connect through:
 <p align="left">
 <a href="www.linkedin.com/in/kavinduchelaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kavinduchelaka" height="30" width="40" /></a>
-<a href="https://www.facebook.com/kavindu.chelaka?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kavindu.chelaka?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/kavinduchelaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/kavinduchelaka" height="30" width="40" /></a>
-</p>
+
