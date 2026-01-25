@@ -1,38 +1,42 @@
-<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm kavindu Chelaka</h1>
-<br>
+<h1 align="center">Hi, I'm Kavindu Chelaka 👋</h1>
+<h3 align="center">Undergraduate | Computer Networks | NSBM Green University</h3>
 
-I am an Undergraduate Student
-pursuing my BSc in Computer Networks from NSBM Green University, Srilanka
-
-<br>
-<br>
-
-<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
-
-- 🌱 I’m currently learning Networking Basics and Develop Enterprise Applications
-
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<p align="center">
+   Learning Networking Basics & Enterprise Application Development  
 </p>
-<br>
+
+---
+
+### About Me
+I am an undergraduate student pursuing my **BSc in Computer Networks** at  
+**NSBM Green University, Sri Lanka**, with an interest in networking, web technologies,  
+and building real-world systems.
+
+---
+
+### Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,php,mysql,java,python,git,github" />
+</p>
+
+---
+
+### GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=wmkcwijesundara&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmkcwijesundara&layout=compact&theme=tokyonight" height="165" />
+</p>
 
 
-### 📊 My Github Stats:
-<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wmkcwijesundara&show_icons=true&theme=radical) <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="kavindu Chelaka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmkcwijesundara&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wmkcwijesundara&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<br>
+### Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/kavinduchelaka">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
-
-### Lets connect through:
-<p align="left">
-<a href="www.linkedin.com/in/kavinduchelaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kavinduchelaka" height="30" width="40" /></a>
-
+---
+ *Learning every day, building step by step.*
