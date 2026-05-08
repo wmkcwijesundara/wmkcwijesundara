@@ -1,42 +1,66 @@
-<h1 align="center">Hi, I'm Kavindu Chelaka 👋</h1>
-<h3 align="center">Undergraduate | Computer Networks | NSBM Green University</h3>
+<h1 align="center">Hi 👋, I'm Kavindu Chelaka</h1>
+
+<h3 align="center">
+BSc (Hons) in Computer Networks Undergraduate | NSBM Green University
+</h3>
 
 <p align="center">
-   Learning Networking Basics & Enterprise Application Development  
+Passionate about Networking, DevOps, Cloud Engineering & Infrastructure Technologies
 </p>
 
 ---
 
-### About Me
-I am an undergraduate student pursuing my **BSc in Computer Networks** at  
-**NSBM Green University, Sri Lanka**, with an interest in networking, web technologies,  
-and building real-world systems.
+## 🚀 About Me
+
+🎓 Currently a **3rd Year Undergraduate** at **NSBM Green University**  
+📚 Studying **BSc (Hons) in Computer Networks**
+
+💡 Passionate about:
+- DevOps
+- Cloud Engineering & Infrastructure
+- Networking & System Administration
+- Automation & Real-World IT Solutions
+
+🌱 Currently learning and exploring:
+- Docker & Containerization
+- Kubernetes
+- CI/CD Pipelines
+- AWS & Microsoft Azure
+- Linux & Server Administration
+- Enterprise Networking
+- Network Security & Cybersecurity
 
 ---
 
-### Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,php,mysql,java,python,git,github" />
+## 🛠️ Languages & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,php,mysql,java,python,git,github,linux,docker,kubernetes,aws,azure" />
 </p>
 
 ---
 
-### GitHub Stats
-<p>
+## 📊 GitHub Stats
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wmkcwijesundara&show_icons=true&theme=tokyonight" height="165" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmkcwijesundara&layout=compact&theme=tokyonight" height="165" />
 </p>
 
-
-
 ---
 
-### Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/kavinduchelaka">
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kavinduchelaka" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
 ---
- *Learning every day, building step by step.*
+
+<p align="center">
+  <i>Learning every day • Building step by step • Growing in Cloud, DevOps & Networking</i>
+</p>
